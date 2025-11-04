@@ -148,3 +148,19 @@
 #b6{
     background-color: rgb(226, 43, 43);
 }
+.reg{
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 10px #ff0000 solid;
+    justify-content: space-evenly;
+    align-content: space-around;
+    /* align-items: center; */
+}
+.sub_reg{
+    width: 200px;
+    height: 200px;
+    border: 5px #ef00d8 solid;
+    background-color: aqua;
+}
