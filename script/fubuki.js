@@ -1,5 +1,5 @@
 const img1 = "../src/fubuki_1.jpg"
-const img2 = "../src/fubuki_2.jpg"
+const img2 = "../src/fubuki_2.JPG"
 let bool = true;
 const api_url  = "http://localhost:3000"
 const data = {
