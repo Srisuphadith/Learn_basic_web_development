@@ -1,0 +1,60 @@
+.container_image {
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container_button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#12 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flip {
+
+    background-color: aquamarine;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 50%;
+    height: 50px;
+    border-radius: 20rem;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 30px;
+    
+}
+
+.flip:hover {
+    
+    background-color: #AAAAAA;
+    box-shadow: 5px 5px 10px;
+}
+
+.show_data {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    display: none;
+    width: 50%;
+    color: white;
+    font-size: 20px;
+}
+
+.show_data:hover {
+    width: 50%;
+    background-color: white;
+    
+    color: black;
+    box-shadow: 5px 5px 10px;
+}
